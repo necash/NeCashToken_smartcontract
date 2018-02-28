@@ -1,1 +1,1 @@
-# NeCashToken_smartcontract
+# NeCashToken Smart Contract
